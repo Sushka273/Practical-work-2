@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практическая №2 Трусов", "Практическая №2 Трусов\Практическая №2 Трусов.csproj", "{0781DCD3-19D9-4793-AB2B-82D6B24A1CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Функции", "Фуекции\Функции.csproj", "{BA2A7D1B-D439-4B2B-8290-A68B79663916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0781DCD3-19D9-4793-AB2B-82D6B24A1CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0781DCD3-19D9-4793-AB2B-82D6B24A1CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0781DCD3-19D9-4793-AB2B-82D6B24A1CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0781DCD3-19D9-4793-AB2B-82D6B24A1CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2A7D1B-D439-4B2B-8290-A68B79663916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2A7D1B-D439-4B2B-8290-A68B79663916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2A7D1B-D439-4B2B-8290-A68B79663916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2A7D1B-D439-4B2B-8290-A68B79663916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A5BE7A-E5A3-4D38-95E7-1351AE9C5C8D}
+	EndGlobalSection
+EndGlobal
